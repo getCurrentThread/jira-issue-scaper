@@ -1,0 +1,10 @@
+beautifulsoup4
+numpy
+pandas
+python-dateutil
+pytz
+get-chrome-driver
+selenium
+six
+soupsieve
+urllib3
